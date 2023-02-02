@@ -1,0 +1,36 @@
+Lab 3-2 IP Addressing
+
+Lab Task: IP Addressing Quiz
+
+1. PC1 has the IP address 10.0.25.29, and tries to communicate with PC2, which has the IP address 192.168.1.12.
+Assume that both PCs are on the same LAN and are not connected to a router. Will PC1’s communication attempt
+succeed if the addresses follow the A, B, C network class system? Why or why not?
+	-No, They cannot connect on the same LAN since their subnets are different.
+
+
+2. PC5 has the IP 172.20.7.12. What is its subnet mask and CIDR, according to network addressing?
+	- /16 or 255.255.0.0, the default subnet mask for this IP range.
+
+
+3. PC3 has the IP 172.20.0.13 and wants to communicate with PC5, which has the IP 172.20.7.12.
+Both PCs are not connected to a router. Can PC3 communicate with PC5 if the addresses follow the 
+classful network addressing model? Why?
+	- Yes. They share the same network, 172.20.0.0/16, and have the same subnets by default.
+
+
+4. PC6 has the IP address 10.0.0.25. Can packets be routed directly to PC6 from the internet and vice versa? Why?
+	- No, 10.0.0.25 would not function on the internet because it is a private address (RFC 1918).
+
+
+5. List two public IP addresses.
+	-8.8.8.8
+	-192.104.248.0
+
+
+6. Which class does the network address 172.16.0.0 belong to?
+	-Class B
+
+
+7. What are the network and host portions of the address 192.168.0.54/24?
+	-192.168.0 > Network portion
+	-.54 > Host portion

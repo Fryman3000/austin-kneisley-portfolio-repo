@@ -1,0 +1,28 @@
+Lab 1-2 | Basic DiD Planning
+
+Lab Task: Defense in Depth Planning(See PDF for image references)
+
+1. Match each security control option below with its suitable numbered position in the structure above:
+	A. Firewall - 6
+	B. Fence - 1
+	C. Authentication - 4
+	D. Door - 3
+	E. CCTV - 2
+	F. Intrusion prevention system (IPS) - 5
+
+
+2. Provide a basic explanation of the Defense in Depth concept.
+	The term "DiD" describes a distributed, multi-layered security control mechanism used across an entire IT system.
+
+
+3. Why is it important to have multiple layers of defense?
+	A robust defense system for an organization must consist of multiple layers. Adding more layers keeps organizational assets safer
+	and makes illegal access more challenging.
+
+
+4. Translate the castle’s defense mechanisms to cybersecurity-related defenses.
+	-The moat and the walls represent a firewall. 
+	- The door represents an entrance that prevents physical access.
+	- The person with binoculars represents a CCTV system. 
+	- The knights represent an antivirus application. 
+	- The archer represents an intrusion prevention system (IPS).

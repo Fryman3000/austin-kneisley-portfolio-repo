@@ -1,0 +1,49 @@
+IC-01-L1 | Who Are We?
+
+
+Lab Task: Research Hacker Groups & Resources
+• Search the internet for the logos shown below and find the names of the hacker groups or resources that use those logos.
+• For each logo, do one of the following:
+o If the logo is associated with a hacker group: Describe a famous attack perpetrated by the group.
+o If the logo is associated with a resource: Identify a resource available on the website.
+
+1. Anonymous
+Hackers and activists who go by the name Anonymous engage in a variety of online protests and attacks. 
+Operation Avenge Assange, which was started after Julian Assange, the founder of WikiLeaks, was detained, 
+is one of the most well-known attacks carried out by Anonymous. In this operation, Anonymous targeted a 
+number of governments' and organizations' websites that it believed to be opposed to the principles of 
+information and speech freedom. The group behind the attack claimed to have taken down millions of pages 
+in support of their cause, and as a result, several websites were temporarily shut down.
+
+
+2. LulzSec
+From May to June 2011, the black hat hacker collective LulzSec was operational. They carried out a number of
+high-profile cyberattacks that sparked discussion about online privacy and security while highlighting security 
+flaws in various organizations. Their most well-known assaults include:
+
+LulzSec broke into Sony's servers and stole sensitive data, including the private information of millions of customers, 
+according to Sony Pictures Entertainment.
+
+The Central Intelligence Agency's (CIA) official website was successfully vandalized by the group, who also leaked some
+classified information.
+
+After breaking into the Public Broadcasting Service's (PBS) servers, LulzSec posted a false news article on its website 
+claiming that rapper Tupac Shakur was alive and residing in New Zealand.
+
+
+3. Hackers for Charity
+Disaster Response and Relief: Hackers have contributed their expertise and resources to disaster relief for decades, frequently
+stepping in well before larger organizations can mobilize. Adaptable, natural problem-solvers with cutting-edge expertise in a
+wide range of technological fields who are well-suited for catastrophe response.They've learnt a few things about what works in
+disaster response and relief situations as they've become more organized.
+
+
+4. Electronic Frontier Foundation
+Surveillance Self-Defense: The EFF's online resource Surveillance Self-Defense (SSD) explains how to protect yourself and your friends
+from being watched by adopting careful habits and safe technology. SSD teaches you about ideas like creating a security plan, the value 
+of strong passwords, and safeguarding metadata in addition to tutorials for installing and using security-friendly software.
+
+
+5. OWASP
+OWASP Top Ten: A standard resource for developers and web application security is the OWASP Top 10. It reflects a broader understanding of
+the most important security threats to web applications.
